@@ -1,0 +1,9 @@
+{
+  "name": "collaborative-backend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "server": "tsx index.ts",
+    "dev": "tsx watch index.ts"
+  }
+}
